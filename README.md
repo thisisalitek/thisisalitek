@@ -1,33 +1,26 @@
 # Ali TEK
 
-**Hello world!** 👋
+### #Senior^2 Developer, #Software Engineer, #Lead Developer, #Shaman, #Freelance Developer
 
-**This is me!**
+
+Hello world! This is me. 👋 
+
+|<a href="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek01.jpg" target="_blank"><img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek01.jpg" width="241" alt="ali-tek" /></a>| <a href="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek02.jpg" target="_blank"><img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek02.jpg" width="241" alt="ali-tek" /></a>|<a href="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek03.jpg" target="_blank"><img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek03.jpg" width="241" alt="ali-tek" /></a> |
+|--|--|--|
 
 - [Introduce](#introduce)
-- [Bio](#bio)
-- 
+- [Chronicles](#chronicles)
+- [Skills](#skills) 
+- [Education](#education) 
 
 ## Introduce
-
-#softwareEngineer, #developer, #shaman, #seniorDevoloper+++( the master of seniors)
-
+#### 29 years of experience in software development, since 1994
 **My life purpose** is to raise humankind to the **5th dimension** via technology.
+dsdf
 
-## Bio
-I was born in Turkey
+## Chronicles
+<a href="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek-chronicles.svg" target="_blank"><img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek-chronicles.svg" width="6000" alt="ali-tek" /></a>
 
 
-**ali1tek/ali1tek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
 
