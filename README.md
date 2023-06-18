@@ -1,6 +1,6 @@
 # Ali TEK
 
-### #Senior^2 Developer, #Software Engineer, #Lead Developer, #Shaman, #Freelance Developer
+**#Senior^2 Developer, #Software Engineer, #Lead Developer, #Shaman, #Freelance Developer**
 
 
 Hello world! This is me. 👋 
@@ -12,10 +12,10 @@ Hello world! This is me. 👋
 - [Chronicles](#chronicles)
   - [Me](#me)
   - [My Active Projects](#my-active-projects)
-    - [miastart.com](#miastart.com)
-    - [tr216.com](#tr216.com)
-    - [miajupiter.com](#miajupiter.com)
-    - [connectorjs.com](#connectorjs.com)
+    - [MiaStart](#miastart)
+    - [TR216 Online Erp](#tr216-online-erp)
+    - [MiaJupiter](#miajupiter)
+    - [ConnectorJS](#connectorjs)
 - [Skills](#skills)
   - [In love](#in-love)
   - [Strong](#strong)
@@ -38,10 +38,20 @@ Hello world! This is me. 👋
 
 ### My Active Projects
 
-#### miastart.com
-#### tr216.com
-#### miajupiter.com
-#### connectorjs.com
+#### MiaStart
+website: <a href="https://miastart.com" target="_blank" >miastart.com</a>
+github: <a href="https://github.com/miastart" target="_blank">github.com/miastart</a>
+
+#### TR216 Online Erp
+website: <a href="https://tr216.com" target="_blank" >tr216.com</a>
+
+#### MiaJupiter
+website: <a href="https://miajupiter.com" target="_blank" >miajupiter.com</a>
+github: <a href="https://github.com/miajupiter" target="_blank">github.com/miajupiter</a>
+
+#### ConnectorJS
+website: <a href="https://connectorjs.com" target="_blank" >connectorjs.com</a>
+github: <a href="https://github.com/connectorjs" target="_blank">github.com/connectorjs</a>
 
 
 ## Skills
