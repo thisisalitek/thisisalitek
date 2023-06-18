@@ -10,6 +10,8 @@ Hello world! This is me. 👋
 
 - [Introduce](#introduce)
 - [Chronicles](#chronicles)
+	- [Me](#me)
+	- [My Active Projects](#my-active-projects)
 - [Skills](#skills) 
 	- [In love](#in-love) 
 	- [Strong](#strong) 
@@ -27,7 +29,15 @@ Hello world! This is me. 👋
 
 
 ## Chronicles
+### Me
 <a href="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek-chronicles.svg" target="_blank"><img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/alitek-chronicles.svg" width="1200" alt="ali-tek" /></a>
+
+### My Active Projects
+
+#### miastart.com
+#### tr216.com
+#### miajupiter.com
+#### connectorjs.com
 
 
 ## Skills
