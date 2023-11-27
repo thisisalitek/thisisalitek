@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/faalitek/faalitek.png" width="140" alt="alitek" />
+<img src="https://raw.githubusercontent.com/ali1tek/ali1tek/main/img/faalitek/faalitek-white.png" width="140" alt="alitek" />
 
 # alitek
 - 🧑🏻‍💻software engineer |  ⚔️ full stack
