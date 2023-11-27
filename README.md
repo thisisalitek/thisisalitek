@@ -13,4 +13,5 @@
 - 🏠[izmir/turkey](https://www.google.com/maps/place/MIA+KORU+TORBALI/@38.1684487,27.3445112,19z/data=!4m6!3m5!1s0x14bbd9c1b27b652b:0xbc506f2cf4e5f6a6!8m2!3d38.168473!4d27.3452743!16s%2Fg%2F11hd6m_kp4?entry=ttu)  | 🎮remote
 
 - 🎂28 years old, ♎libra, 🩸[ab rh negative](https://www.vitalant.org/learn/blood-types/type-ab-blood), 🌈, 𖤐,🗿,👽
-- 🖼️my sexy photos 😉
+- 🖼️[my sexy photos](./img/2030/README.md) 😉
+
