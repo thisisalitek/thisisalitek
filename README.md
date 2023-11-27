@@ -1,7 +1,15 @@
 
-<img src="./img/faalitek/faalitek-white-with-shadow.png" width="140" alt="alitek" />
 
-# alitek
+<table width="100%" cellborder="0" cellspace="0">
+<tr>
+<td ><h1>alitek</h1></td>
+<td align="right"><p align="right">
+<img src="./img/faalitek/faalitek-white-with-shadow.png" height="120" alt="alitek" />
+</p></td>
+</tr>
+</table>
+
+
 - 🧑🏻‍💻software engineer |  ⚔️ full stack
 	- go, golang, mongodb, nodejs, docker, sql, reactjs, flutter, reactnative, nextjs, vb, c#, github, open-source advocate, postman, ubuntu, million web socket connection
 
